@@ -43,3 +43,5 @@ if __name__ == "__main__":
                 pylab.savefig("./SARSA_learning10.png")
                 break
     print(SA.q_table)
+    #record the paths
+    #use them later to plot

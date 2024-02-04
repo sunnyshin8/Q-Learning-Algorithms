@@ -94,3 +94,4 @@ def main_for_a_star():
 
 
 main_for_a_star()
+#return

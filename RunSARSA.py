@@ -45,3 +45,5 @@ if __name__ == "__main__":
     print(SA.q_table)
     #record the paths
     #use them later to plot
+
+#just for testing

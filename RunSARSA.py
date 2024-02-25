@@ -46,6 +46,3 @@ if __name__ == "__main__":
     #record the paths
     #use them later to plot
 
-#just for testing
-    #akkad bakkad
-    #one two three
